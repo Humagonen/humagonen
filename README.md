@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br><br>💬 Ask me about Python, SQL, Machine Learning, Deep Learning, Tableau<br><br>📫 How to reach me: huma.gonen10@gmail.com
+🔭 I’m currently working on Data Science and AI<br><br>💬 Ask me about Python, SQL, Machine Learning, Deep Learning...<br><br>📫 How to reach me: huma.gonen10@gmail.com
 
 
 ## 🌐 Socials:
